@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-¡Hola! Soy Jaidary Mejía, estudiante de Ingeniería en Sistemas y apasionada por la astronomía y el análisis de datos. Mi enfoque se centra en utilizar herramientas en Python (Astropy, Numpy, Matplotlib) para procesar imágenes FITS, realizar fotometría y analizar datos. Mi objetivo es documentar procesos que agilicen la investigación y permitan compartir resultados con la comunidad científica. Además, busco retribuir el conocimiento que he adquirido de manera gratuita, facilitando el acceso a herramientas y recursos para que más personas puedan avanzar en sus estudios e investigaciones.
+¡Hola! Soy Jaidary Mejía, estudiante de Ingeniería en Sistemas y apasionada por la astronomía y el análisis de datos. Mi enfoque se centra en utilizar herramientas en Python (Astropy, Numpy, Matplotlib) para procesar imágenes FITS, realizar fotometría y analizar datos. 
+
+Mi objetivo es documentar procesos que agilicen la investigación y permitan compartir resultados con la comunidad científica. Además, busco retribuir el conocimiento que he adquirido de manera gratuita, facilitando el acceso a herramientas y recursos para que más personas puedan avanzar en sus estudios e investigaciones.
 
 <!--
 **jaidarydev/jaidarydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
